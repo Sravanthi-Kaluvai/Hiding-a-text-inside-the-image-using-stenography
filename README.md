@@ -22,7 +22,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/steganography_project.git
+git clone https://github.com/Sravanthi-Kaluvai/Hiding-a-text-inside-the-image-using-stenography.git
 cd steganography_project
 Install dependencies:
 
